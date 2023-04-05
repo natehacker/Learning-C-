@@ -31,12 +31,26 @@ using namespace std;
 // }
 
 //user  numbe input 
-int main (){
-    int x;
-    cout<< "type a number:";
-    cin>> x;
-    cout << "your number is "; 
-    return 0;
+// int main (){
+//     int x;
+//     cout<< "type a number:";
+//     cin>> x;
+//     cout << "your number is "; 
+//     return 0;
+// }
+// data types
+int main(){
+int myNum = 5;
+float myFloatNum = 9.98;
+double myDoubleNum = 9.98;
+char myLetter = 'D';
+bool myBoolean = true;
+
+cout << myLetter;
+return 0;
 }
+
+
+
 
 
